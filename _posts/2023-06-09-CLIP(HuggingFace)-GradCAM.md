@@ -117,7 +117,7 @@ image
 
 
     
-![png](https://github.com/hyokyunAn/hyokyunAn.github.io/tree/master/_posts/images/output_8_0.png)
+![png](https://public-vcrdata.s3.ap-northeast-2.amazonaws.com/images/output_8_0.png)
     
 
 
