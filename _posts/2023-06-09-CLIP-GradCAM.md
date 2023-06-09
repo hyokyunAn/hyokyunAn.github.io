@@ -614,3 +614,7 @@ for i in [0,1,2]:
 ##### 1. 얕은 layer보다 깊은 layer에서 사람이 식별 가능한 heatmap이 관측된다.
 ##### 2. Layer에 따라 매우 다른 heatmap이 관측된다.
 ##### 3. Base Model의 heatmap 결과가 Large Model의 결과보다 사람에게 오히려 더욱 직관적이었다.
+
+
+# 주피터 파일 다운로드
+https://github.com/hyokyunAn/Papers_AI/tree/main/CLIP-GradCAM
