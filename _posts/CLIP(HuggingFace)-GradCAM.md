@@ -117,7 +117,7 @@ image
 
 
     
-![png](output_8_0.png)
+![png](https://public-vcrdata.s3.ap-northeast-2.amazonaws.com/images/output_8_0.png)
     
 
 
@@ -216,7 +216,7 @@ for i in [0,1,2]:
 
 
     
-![png](output_17_1.png)
+![png](https://public-vcrdata.s3.ap-northeast-2.amazonaws.com/images/output_17_1.png)
     
 
 
@@ -225,7 +225,7 @@ for i in [0,1,2]:
 
 
     
-![png](output_17_3.png)
+![png](https://public-vcrdata.s3.ap-northeast-2.amazonaws.com/images/output_17_3.png)
     
 
 
@@ -234,7 +234,7 @@ for i in [0,1,2]:
 
 
     
-![png](output_17_5.png)
+![png](https://public-vcrdata.s3.ap-northeast-2.amazonaws.com/images/output_17_5.png)
     
 
 
@@ -263,7 +263,7 @@ for i in [0,1,2]:
 
 
     
-![png](output_19_1.png)
+![png](https://public-vcrdata.s3.ap-northeast-2.amazonaws.com/images/output_19_1.png)
     
 
 
@@ -272,7 +272,7 @@ for i in [0,1,2]:
 
 
     
-![png](output_19_3.png)
+![png](https://public-vcrdata.s3.ap-northeast-2.amazonaws.com/images/output_19_3.png)
     
 
 
@@ -281,7 +281,7 @@ for i in [0,1,2]:
 
 
     
-![png](output_19_5.png)
+![png](https://public-vcrdata.s3.ap-northeast-2.amazonaws.com/images/output_19_5.png)
     
 
 
@@ -320,7 +320,7 @@ for i in [0,1,2]:
 
 
     
-![png](output_23_1.png)
+![png](https://public-vcrdata.s3.ap-northeast-2.amazonaws.com/images/output_23_1.png)
     
 
 
@@ -329,7 +329,7 @@ for i in [0,1,2]:
 
 
     
-![png](output_23_3.png)
+![png](https://public-vcrdata.s3.ap-northeast-2.amazonaws.com/images/output_23_3.png)
     
 
 
@@ -338,7 +338,7 @@ for i in [0,1,2]:
 
 
     
-![png](output_23_5.png)
+![png](https://public-vcrdata.s3.ap-northeast-2.amazonaws.com/images/output_23_5.png)
     
 
 
@@ -367,7 +367,7 @@ for i in [0,1,2]:
 
 
     
-![png](output_25_1.png)
+![png](https://public-vcrdata.s3.ap-northeast-2.amazonaws.com/images/output_25_1.png)
     
 
 
@@ -376,7 +376,7 @@ for i in [0,1,2]:
 
 
     
-![png](output_25_3.png)
+![png](https://public-vcrdata.s3.ap-northeast-2.amazonaws.com/images/output_25_3.png)
     
 
 
@@ -385,7 +385,7 @@ for i in [0,1,2]:
 
 
     
-![png](output_25_5.png)
+![png](https://public-vcrdata.s3.ap-northeast-2.amazonaws.com/images/output_25_5.png)
     
 
 
@@ -414,7 +414,7 @@ for i in [0,1,2]:
 
 
     
-![png](output_27_1.png)
+![png](https://public-vcrdata.s3.ap-northeast-2.amazonaws.com/images/output_27_1.png)
     
 
 
@@ -423,7 +423,7 @@ for i in [0,1,2]:
 
 
     
-![png](output_27_3.png)
+![png](https://public-vcrdata.s3.ap-northeast-2.amazonaws.com/images/output_27_3.png)
     
 
 
@@ -432,7 +432,7 @@ for i in [0,1,2]:
 
 
     
-![png](output_27_5.png)
+![png](https://public-vcrdata.s3.ap-northeast-2.amazonaws.com/images/output_27_5.png)
     
 
 
@@ -452,7 +452,7 @@ image.resize((300,200)).show()
 
 
     
-![png](output_30_0.png)
+![png](https://public-vcrdata.s3.ap-northeast-2.amazonaws.com/images/output_30_0.png)
     
 
 
@@ -506,7 +506,7 @@ for i in [0,1,2]:
 
 
     
-![png](output_34_1.png)
+![png](https://public-vcrdata.s3.ap-northeast-2.amazonaws.com/images/output_34_1.png)
     
 
 
@@ -515,7 +515,7 @@ for i in [0,1,2]:
 
 
     
-![png](output_34_3.png)
+![png](https://public-vcrdata.s3.ap-northeast-2.amazonaws.com/images/output_34_3.png)
     
 
 
@@ -524,7 +524,7 @@ for i in [0,1,2]:
 
 
     
-![png](output_34_5.png)
+![png](https://public-vcrdata.s3.ap-northeast-2.amazonaws.com/images/output_34_5.png)
     
 
 
@@ -584,7 +584,7 @@ for i in [0,1,2]:
 
 
     
-![png](output_38_1.png)
+![png](https://public-vcrdata.s3.ap-northeast-2.amazonaws.com/images/output_38_1.png)
     
 
 
@@ -593,7 +593,7 @@ for i in [0,1,2]:
 
 
     
-![png](output_38_3.png)
+![png](https://public-vcrdata.s3.ap-northeast-2.amazonaws.com/images/output_38_3.png)
     
 
 
@@ -602,7 +602,7 @@ for i in [0,1,2]:
 
 
     
-![png](output_38_5.png)
+![png](https://public-vcrdata.s3.ap-northeast-2.amazonaws.com/images/output_38_5.png)
     
 
 
